@@ -48,3 +48,27 @@ text-align: center;
   color: black;
   display: block;
 }
+.image2{
+  background-image: url(./assets/image2.jpg);
+  background-repeat: no-repeat;
+background-size: cover;
+height: 517px;
+}
+.btnnn{
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 15px;
+  color: white;
+
+}
+.btnnT{
+  text-decoration: none;
+  border: 1px solid #79253d;
+  padding: 20px;
+  color: #79253d;
+
+}
+.btnnT:hover{
+  color: white;
+  background-color: #79253d;
+  }
