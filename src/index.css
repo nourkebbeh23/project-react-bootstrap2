@@ -72,3 +72,50 @@ height: 517px;
   color: white;
   background-color: #79253d;
   }
+  .add{
+    text-decoration: none;
+    border: 1px solid #79253d;
+    padding: 20px;
+    color: #79253d;
+  }
+  .add:hover{
+    color: white;
+    background-color: #79253d;
+    }
+    .vv{
+      display: block;
+    }
+    .for{
+      display: flex;
+    }
+    .addd{
+      text-decoration: none;
+      border: 1px solid #79253d;
+      padding: 20px;
+
+      color: #79253d;
+    }
+    .addd:hover{
+      color: white;
+      background-color: #79253d;
+      }
+      .nn{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+      
+      }
+      .bh{
+        background-image: url(./assets/image17.avif);
+        background-repeat: no-repeat;
+        height: 517px;
+        background-size: cover;
+        width: 1140px;
+      }
+      .lo{
+      margin-top: 200px;
+      color: white;
+      letter-spacing: 30px;
+        font-size: 4rem;
+      }
+      
