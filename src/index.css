@@ -106,7 +106,7 @@ height: 517px;
       
       }
       .bh{
-        background-image: url(./assets/image17.avif);
+        background-image: url(./assets/image18.avif);
         background-repeat: no-repeat;
         height: 517px;
         background-size: cover;
@@ -114,8 +114,32 @@ height: 517px;
       }
       .lo{
       margin-top: 200px;
-      color: white;
+      color: #79253d;
       letter-spacing: 30px;
         font-size: 4rem;
       }
-      
+      .adddd{
+        text-decoration: none;
+     
+      color: white;
+      background-color: #79253d;
+
+      }
+      .adddd:hover{
+        border: 1px solid #79253d;
+        background-color: white;
+        color: #79253d;
+        }
+        .addddd{
+          text-decoration: none;
+   
+          padding: 20px;
+    
+          color: white;
+      background-color: #79253d;
+        }
+        .addddd:hover{
+            border: 1px solid #79253d;
+          color: #79253d;
+          background-color: white;
+          }

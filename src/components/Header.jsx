@@ -6,7 +6,7 @@ function Header(){
 <div className="col-md-8 bh text-center text-white">
 <div className=" mt-5">
 <h1 className="lo ">COTTON</h1>
-<p>FLOWER SHOP</p>
+<p className="c">FLOWER SHOP</p>
 </div>
 
 </div>

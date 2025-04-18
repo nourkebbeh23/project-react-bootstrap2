@@ -39,6 +39,7 @@ function Homeshop(){
 
 <div className="mt-5 text-center">
 <a href="#" className=" btnnT  mt-5   ">Shop all</a>
+
 </div>
 
 </div>
